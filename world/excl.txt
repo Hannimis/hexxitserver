@@ -1,0 +1,2 @@
+excl=0;D:\Skrivebord\heil hitler\mods\resources\ruins\ocean\PirateShip.tml
+excl=0;D:\Skrivebord\heil hitler\mods\resources\ruins\ocean\SkyCastle.tml

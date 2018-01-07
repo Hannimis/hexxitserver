@@ -1,0 +1,2275 @@
+Loading the generic ruins templates...
+
+There was a problem loading the file: code_148_692_3.tml
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.lang.String.charAt(Unknown Source)
+	at atomicstryker.ruins.common.RuinTemplate.parseFile(RuinTemplate.java:399)
+	at atomicstryker.ruins.common.RuinTemplate.<init>(RuinTemplate.java:33)
+	at atomicstryker.ruins.common.RuinHandler.addRuins(RuinHandler.java:319)
+	at atomicstryker.ruins.common.RuinHandler.<init>(RuinHandler.java:81)
+	at atomicstryker.ruins.common.RuinsMod.createHandler(RuinsMod.java:210)
+	at atomicstryker.ruins.common.RuinsMod.getWorldHandle(RuinsMod.java:138)
+	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:119)
+	at atomicstryker.ruins.common.RuinsMod.access$200(RuinsMod.java:37)
+	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:101)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:102)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:259)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1249)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:153)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:282)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:256)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+
+There was a problem loading the file: code_148_692_5.tml
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.lang.String.charAt(Unknown Source)
+	at atomicstryker.ruins.common.RuinTemplate.parseFile(RuinTemplate.java:399)
+	at atomicstryker.ruins.common.RuinTemplate.<init>(RuinTemplate.java:33)
+	at atomicstryker.ruins.common.RuinHandler.addRuins(RuinHandler.java:319)
+	at atomicstryker.ruins.common.RuinHandler.<init>(RuinHandler.java:81)
+	at atomicstryker.ruins.common.RuinsMod.createHandler(RuinsMod.java:210)
+	at atomicstryker.ruins.common.RuinsMod.getWorldHandle(RuinsMod.java:138)
+	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:119)
+	at atomicstryker.ruins.common.RuinsMod.access$200(RuinsMod.java:37)
+	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:101)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:102)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:259)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1249)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:153)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:282)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:256)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+
+There was a problem loading the file: code_148_692_6.tml
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.lang.String.charAt(Unknown Source)
+	at atomicstryker.ruins.common.RuinTemplate.parseFile(RuinTemplate.java:399)
+	at atomicstryker.ruins.common.RuinTemplate.<init>(RuinTemplate.java:33)
+	at atomicstryker.ruins.common.RuinHandler.addRuins(RuinHandler.java:319)
+	at atomicstryker.ruins.common.RuinHandler.<init>(RuinHandler.java:81)
+	at atomicstryker.ruins.common.RuinsMod.createHandler(RuinsMod.java:210)
+	at atomicstryker.ruins.common.RuinsMod.getWorldHandle(RuinsMod.java:138)
+	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:119)
+	at atomicstryker.ruins.common.RuinsMod.access$200(RuinsMod.java:37)
+	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:101)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:102)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:259)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1249)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:153)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:282)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:256)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+Successfully loaded template Gnomeworks.tml with weight 10.
+
+There was a problem loading the file: Orthanc.tml
+java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.lang.String.charAt(Unknown Source)
+	at atomicstryker.ruins.common.RuinTemplate.parseFile(RuinTemplate.java:399)
+	at atomicstryker.ruins.common.RuinTemplate.<init>(RuinTemplate.java:33)
+	at atomicstryker.ruins.common.RuinHandler.addRuins(RuinHandler.java:319)
+	at atomicstryker.ruins.common.RuinHandler.<init>(RuinHandler.java:81)
+	at atomicstryker.ruins.common.RuinsMod.createHandler(RuinsMod.java:210)
+	at atomicstryker.ruins.common.RuinsMod.getWorldHandle(RuinsMod.java:138)
+	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:119)
+	at atomicstryker.ruins.common.RuinsMod.access$200(RuinsMod.java:37)
+	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:101)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:102)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:259)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1249)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:153)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:282)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:256)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+Successfully loaded template TallTower.tml with weight 1.
+Successfully loaded template tower.tml with weight 1.
+Successfully loaded template UNderground Ruin.tml with weight 1.
+
+Loading the ocean ruins templates...
+Successfully loaded template Archway.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BridgePilings-small_river.tml with weight 12.
+Successfully loaded template BridgePilings2_river.tml with weight 12.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 12.
+Successfully loaded template PillarBase.tml with weight 12.
+Successfully loaded template PirateShip.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 12.
+Successfully loaded template SkyCastle.tml with weight 1.
+Successfully loaded template SunkenShip-v3.tml with weight 5.
+Successfully loaded template TallTower.tml with weight 12.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 5.
+Loaded Ocean ruins templates, biomeID 0
+
+Loading the plains ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 3.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DiamondWell.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 4.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template PillarBase.tml with weight 4.
+Successfully loaded template Pit-big.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 4.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpearStatue.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 4.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 4.
+Successfully loaded template TinyFarmField.tml with weight 3.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 3.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 2.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Loaded Plains ruins templates, biomeID 1
+
+Loading the desert ruins templates...
+Successfully loaded template Beacon.tml with weight 4.
+Successfully loaded template BrickHouse.tml with weight 5.
+Successfully loaded template code_148_692_6_littlepyramid.tml with weight 6.
+Successfully loaded template DesertBarrow.tml with weight 5.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeSandstoneHouse.tml with weight 15.
+Successfully loaded template Obelisk.tml with weight 15.
+Successfully loaded template PillarBase.tml with weight 3.
+Successfully loaded template Pyramid.tml with weight 4.
+Successfully loaded template RuinedDryFountain.tml with weight 14.
+Successfully loaded template SandCastle.tml with weight 4.
+Successfully loaded template SandSpire.tml with weight 2.
+Successfully loaded template SandstoneHouse.tml with weight 15.
+Successfully loaded template SandstoneRuin.tml with weight 17.
+Successfully loaded template SandTrap.tml with weight 8.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template TallTower.tml with weight 3.
+Loaded Desert ruins templates, biomeID 2
+
+Loading the extreme hills ruins templates...
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template Beacon.tml with weight 1.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template DwarfBase-mtn.tml with weight 5.
+Successfully loaded template Gazebo.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template GuardHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 8.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 7.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 8.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template PillarBase.tml with weight 8.
+Successfully loaded template Pit-small.tml with weight 5.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 5.
+Successfully loaded template ShortTower.tml with weight 8.
+Successfully loaded template SpearStatue.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 8.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Loaded Extreme Hills ruins templates, biomeID 3
+
+Loading the forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Forest ruins templates, biomeID 4
+
+Loading the taiga ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template Igloo.tml with weight 3.
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 1.
+Successfully loaded template RuinedTripleFountain.tml with weight 1.
+Successfully loaded template SandstoneHouse.tml with weight 3.
+Successfully loaded template SandstoneRuin.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 4.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 4.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Taiga ruins templates, biomeID 5
+
+Loading the swampland ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 7.
+Successfully loaded template BattleBasementMedium.tml with weight 7.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-lg2.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template FlamingSkullHouse.tml with weight 1.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GraveyardHaunted.tml with weight 3.
+Successfully loaded template LargeBrickHouse.tml with weight 6.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 5.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 17.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 17.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 7.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 3.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Loaded Swampland ruins templates, biomeID 6
+
+Loading the river ruins templates...
+Successfully loaded template BridgePilings-small_river.tml with weight 1.
+Successfully loaded template BridgePilings2_river.tml with weight 1.
+Loaded River ruins templates, biomeID 7
+
+Loading the hell ruins templates...
+Successfully loaded template FlamingSkullHouse.tml with weight 10.
+Successfully loaded template LargeNetherHouse.tml with weight 3.
+Successfully loaded template NetherHouse.tml with weight 3.
+Successfully loaded template NetherShrine.tml with weight 2.
+Successfully loaded template PortalShrine.tml with weight 2.
+Successfully loaded template ShortNetherTower.tml with weight 5.
+Successfully loaded template TallNetherTower.tml with weight 5.
+Successfully loaded template Tower-nether.tml with weight 1.
+Loaded Hell ruins templates, biomeID 8
+
+Loading the sky ruins templates...
+Successfully loaded template EnderStatueHigh.tml with weight 20.
+Successfully loaded template EnderStatueLow.tml with weight 20.
+Successfully loaded template EnderStatueMedHigh.tml with weight 20.
+Successfully loaded template EnderStatueMedLow.tml with weight 20.
+Loaded Sky ruins templates, biomeID 9
+
+Loading the frozenocean ruins templates...
+Successfully loaded template TP_FishingShack.tml with weight 10.
+Loaded FrozenOcean ruins templates, biomeID 10
+
+Loading the frozenriver ruins templates...
+Successfully loaded template BridgePilings-small_river.tml with weight 1.
+Loaded FrozenRiver ruins templates, biomeID 11
+
+Loading the ice plains ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 5.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template Igloo.tml with weight 2.
+Successfully loaded template LargeStoneHouse.tml with weight 3.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 3.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 3.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 3.
+Successfully loaded template Pit-big.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 3.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 5.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 3.
+Successfully loaded template TinyFarmField.tml with weight 3.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Loaded Ice Plains ruins templates, biomeID 12
+
+Loading the ice mountains ruins templates...
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DwarfBase-mtn.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 2.
+Successfully loaded template Igloo.tml with weight 30.
+Successfully loaded template LargeStoneHouse.tml with weight 6.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 6.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 6.
+Successfully loaded template MobTower.tml with weight 5.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 6.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 6.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 6.
+Successfully loaded template ShortTower.tml with weight 6.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 5.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 2.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 6.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Loaded Ice Mountains ruins templates, biomeID 13
+
+Loading the mushroomisland ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 15.
+Successfully loaded template BattleBasementMedium.tml with weight 15.
+Successfully loaded template MoaiHead.tml with weight 15.
+Successfully loaded template MobTower.tml with weight 10.
+Successfully loaded template Orthanc.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 15.
+Successfully loaded template Tower-ruined-short.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 10.
+Loaded MushroomIsland ruins templates, biomeID 14
+
+Loading the mushroomislandshore ruins templates...
+Successfully loaded template MoaiHead.tml with weight 1.
+Loaded MushroomIslandShore ruins templates, biomeID 15
+
+Loading the beach ruins templates...
+Successfully loaded template BrickHouse.tml with weight 5.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeSandstoneHouse.tml with weight 5.
+Successfully loaded template MoaiHead.tml with weight 20.
+Successfully loaded template Obelisk.tml with weight 3.
+Successfully loaded template PillarBase.tml with weight 3.
+Successfully loaded template Pyramid.tml with weight 4.
+Successfully loaded template SandCastle.tml with weight 10.
+Successfully loaded template SandstoneHouse.tml with weight 50.
+Successfully loaded template SandstoneRuin.tml with weight 5.
+Successfully loaded template SandTrap.tml with weight 8.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SunkenShip-v2.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 2.
+Loaded Beach ruins templates, biomeID 16
+
+Loading the deserthills ruins templates...
+Successfully loaded template Beacon.tml with weight 4.
+Successfully loaded template BrickHouse.tml with weight 5.
+Successfully loaded template code_148_692_6_littlepyramid.tml with weight 15.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeSandstoneHouse.tml with weight 20.
+Successfully loaded template Obelisk.tml with weight 20.
+Successfully loaded template PillarBase.tml with weight 3.
+Successfully loaded template Pyramid.tml with weight 4.
+Successfully loaded template RuinedDryFountain.tml with weight 10.
+Successfully loaded template SandCastle.tml with weight 2.
+Successfully loaded template SandSpire.tml with weight 2.
+Successfully loaded template SandstoneHouse.tml with weight 20.
+Successfully loaded template SandstoneRuin.tml with weight 11.
+Successfully loaded template SandTrap.tml with weight 8.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template TallTower.tml with weight 3.
+Loaded DesertHills ruins templates, biomeID 17
+
+Loading the foresthills ruins templates...
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 5.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 5.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 5.
+Successfully loaded template OldFoundation.tml with weight 5.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 5.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 5.
+Successfully loaded template TinyFarmField.tml with weight 6.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 5.
+Loaded ForestHills ruins templates, biomeID 18
+
+Loading the taigahills ruins templates...
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+Successfully loaded template LargeStoneHouse.tml with weight 8.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 8.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 8.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 8.
+Successfully loaded template Pit-small.tml with weight 7.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template SandstoneHouse.tml with weight 3.
+Successfully loaded template SandstoneRuin.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 8.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 4.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template StoneHouse.tml with weight 4.
+Successfully loaded template TallTower.tml with weight 8.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded TaigaHills ruins templates, biomeID 19
+
+Loading the extreme hills edge ruins templates...
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template Beacon.tml with weight 1.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template DwarfBase-mtn.tml with weight 5.
+Successfully loaded template Gazebo.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template GuardHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 7.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 7.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 7.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 7.
+Successfully loaded template Pit-small.tml with weight 5.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 7.
+Successfully loaded template ShortTower.tml with weight 7.
+Successfully loaded template SpearStatue.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 7.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Loaded Extreme Hills Edge ruins templates, biomeID 20
+
+Loading the jungle ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template JungleSpiderBurrow.tml with weight 15.
+Successfully loaded template JungleThroneWood.tml with weight 2.
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+Successfully loaded template JungleTreePlatform_edit.tml with weight 10.
+Successfully loaded template Mausoleum.tml with weight 5.
+Successfully loaded template OreSpire.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 15.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 3.
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+Loaded Jungle ruins templates, biomeID 21
+
+Loading the junglehills ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 10.
+Successfully loaded template BattleBasementMedium.tml with weight 10.
+Successfully loaded template JungleSpiderBurrow.tml with weight 34.
+Successfully loaded template JungleThroneWood.tml with weight 1.
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+Successfully loaded template JungleTreePlatform_edit.tml with weight 15.
+Successfully loaded template OreSpire.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 34.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+Loaded JungleHills ruins templates, biomeID 22
+
+Loading the alpine ruins templates...
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+Successfully loaded template LargeStoneHouse.tml with weight 8.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 8.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 8.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 8.
+Successfully loaded template Pit-small.tml with weight 7.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template SandstoneHouse.tml with weight 3.
+Successfully loaded template SandstoneRuin.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 8.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 4.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template StoneHouse.tml with weight 4.
+Successfully loaded template TallTower.tml with weight 8.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Alpine ruins templates, biomeID 32
+
+Loading the autumn woods ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Autumn Woods ruins templates, biomeID 33
+
+Loading the birch forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Birch Forest ruins templates, biomeID 34
+
+Loading the extreme jungle ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template JungleSpiderBurrow.tml with weight 15.
+Successfully loaded template JungleThroneWood.tml with weight 2.
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+Successfully loaded template JungleTreePlatform_edit.tml with weight 10.
+Successfully loaded template Mausoleum.tml with weight 5.
+Successfully loaded template OreSpire.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 15.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 3.
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+Loaded Extreme Jungle ruins templates, biomeID 35
+
+Loading the forested hills ruins templates...
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 5.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 5.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 5.
+Successfully loaded template OldFoundation.tml with weight 5.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 5.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 5.
+Successfully loaded template TinyFarmField.tml with weight 6.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 5.
+Loaded Forested Hills ruins templates, biomeID 36
+
+Loading the forested island ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Forested Island ruins templates, biomeID 37
+
+Loading the glacier ruins templates...
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DwarfBase-mtn.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 2.
+Successfully loaded template Igloo.tml with weight 30.
+Successfully loaded template LargeStoneHouse.tml with weight 6.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 6.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 6.
+Successfully loaded template MobTower.tml with weight 5.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 6.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 6.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 6.
+Successfully loaded template ShortTower.tml with weight 6.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 5.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 2.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 6.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Loaded Glacier ruins templates, biomeID 38
+
+Loading the green hills ruins templates...
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 5.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 5.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 5.
+Successfully loaded template OldFoundation.tml with weight 5.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 5.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 5.
+Successfully loaded template TinyFarmField.tml with weight 6.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 5.
+Loaded Green Hills ruins templates, biomeID 39
+
+Loading the green swamplands ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 7.
+Successfully loaded template BattleBasementMedium.tml with weight 7.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-lg2.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template FlamingSkullHouse.tml with weight 1.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GraveyardHaunted.tml with weight 3.
+Successfully loaded template LargeBrickHouse.tml with weight 6.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 5.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 17.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 17.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 7.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 3.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Loaded Green Swamplands ruins templates, biomeID 40
+
+Loading the ice wasteland ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 5.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template Igloo.tml with weight 2.
+Successfully loaded template LargeStoneHouse.tml with weight 3.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 3.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 3.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 3.
+Successfully loaded template Pit-big.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 3.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 5.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 3.
+Successfully loaded template TinyFarmField.tml with weight 3.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Loaded Ice Wasteland ruins templates, biomeID 41
+
+Loading the marsh ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 7.
+Successfully loaded template BattleBasementMedium.tml with weight 7.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template BrickHouse.tml with weight 10.
+Successfully loaded template BridgePilings-lg2.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template FlamingSkullHouse.tml with weight 1.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GraveyardHaunted.tml with weight 3.
+Successfully loaded template LargeBrickHouse.tml with weight 6.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 5.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 17.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 17.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 7.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 3.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Loaded Marsh ruins templates, biomeID 42
+
+Loading the meadow ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 3.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DiamondWell.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 4.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template PillarBase.tml with weight 4.
+Successfully loaded template Pit-big.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 4.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpearStatue.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 4.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 4.
+Successfully loaded template TinyFarmField.tml with weight 3.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 3.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 2.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Loaded Meadow ruins templates, biomeID 43
+
+Loading the mini jungle ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template JungleSpiderBurrow.tml with weight 15.
+Successfully loaded template JungleThroneWood.tml with weight 2.
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+Successfully loaded template JungleTreePlatform_edit.tml with weight 10.
+Successfully loaded template Mausoleum.tml with weight 5.
+Successfully loaded template OreSpire.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 15.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 3.
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+Loaded Mini Jungle ruins templates, biomeID 44
+
+Loading the mountainous desert ruins templates...
+Successfully loaded template Beacon.tml with weight 4.
+Successfully loaded template BrickHouse.tml with weight 5.
+Successfully loaded template code_148_692_6_littlepyramid.tml with weight 15.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeBrickHouse.tml with weight 5.
+Successfully loaded template LargeSandstoneHouse.tml with weight 20.
+Successfully loaded template Obelisk.tml with weight 20.
+Successfully loaded template PillarBase.tml with weight 3.
+Successfully loaded template Pyramid.tml with weight 4.
+Successfully loaded template RuinedDryFountain.tml with weight 10.
+Successfully loaded template SandCastle.tml with weight 2.
+Successfully loaded template SandSpire.tml with weight 2.
+Successfully loaded template SandstoneHouse.tml with weight 20.
+Successfully loaded template SandstoneRuin.tml with weight 11.
+Successfully loaded template SandTrap.tml with weight 8.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template TallTower.tml with weight 3.
+Loaded Mountainous Desert ruins templates, biomeID 45
+
+Loading the mountain ridge ruins templates...
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template Beacon.tml with weight 1.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template DwarfBase-mtn.tml with weight 5.
+Successfully loaded template Gazebo.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template GuardHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouse.tml with weight 8.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 7.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 8.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template PillarBase.tml with weight 8.
+Successfully loaded template Pit-small.tml with weight 5.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 5.
+Successfully loaded template ShortTower.tml with weight 8.
+Successfully loaded template SpearStatue.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 8.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 5.
+Loaded Mountain Ridge ruins templates, biomeID 46
+
+Loading the mountain taiga ruins templates...
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+Successfully loaded template LargeStoneHouse.tml with weight 8.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 8.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 8.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 8.
+Successfully loaded template Pit-small.tml with weight 7.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template SandstoneHouse.tml with weight 3.
+Successfully loaded template SandstoneRuin.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 8.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 4.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template StoneHouse.tml with weight 4.
+Successfully loaded template TallTower.tml with weight 8.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Mountain Taiga ruins templates, biomeID 47
+
+Loading the pine forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Pine Forest ruins templates, biomeID 48
+
+Loading the rainforest ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template JungleSpiderBurrow.tml with weight 15.
+Successfully loaded template JungleThroneWood.tml with weight 2.
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+Successfully loaded template JungleTreePlatform_edit.tml with weight 10.
+Successfully loaded template Mausoleum.tml with weight 5.
+Successfully loaded template OreSpire.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 10.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template TallTower.tml with weight 15.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 3.
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+Loaded Rainforest ruins templates, biomeID 49
+
+Loading the redwood forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Redwood Forest ruins templates, biomeID 50
+
+Loading the lush redwoods ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Lush Redwoods ruins templates, biomeID 51
+
+Loading the savanna ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 3.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DiamondWell.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 4.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template PillarBase.tml with weight 4.
+Successfully loaded template Pit-big.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 4.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpearStatue.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 4.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 4.
+Successfully loaded template TinyFarmField.tml with weight 3.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 3.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 2.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Loaded Savanna ruins templates, biomeID 52
+
+Loading the shrubland ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 3.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DiamondWell.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 4.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 4.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 4.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 5.
+Successfully loaded template PillarBase.tml with weight 4.
+Successfully loaded template Pit-big.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 4.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpearStatue.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 4.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 4.
+Successfully loaded template TinyFarmField.tml with weight 3.
+Successfully loaded template Tower-edit.tml with weight 2.
+Successfully loaded template Tower-ruined-short.tml with weight 3.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 3.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 2.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Loaded Shrubland ruins templates, biomeID 53
+
+Loading the snow forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template Igloo.tml with weight 3.
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 1.
+Successfully loaded template RuinedTripleFountain.tml with weight 1.
+Successfully loaded template SandstoneHouse.tml with weight 3.
+Successfully loaded template SandstoneRuin.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 4.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 4.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Snow Forest ruins templates, biomeID 54
+
+Loading the snowy rainforest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template Igloo.tml with weight 3.
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 1.
+Successfully loaded template RuinedTripleFountain.tml with weight 1.
+Successfully loaded template SandstoneHouse.tml with weight 3.
+Successfully loaded template SandstoneRuin.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 4.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 4.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Snowy Rainforest ruins templates, biomeID 55
+
+Loading the temperate rainforest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Temperate Rainforest ruins templates, biomeID 56
+
+Loading the tundra ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 5.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template Igloo.tml with weight 2.
+Successfully loaded template LargeStoneHouse.tml with weight 3.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 3.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 3.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 3.
+Successfully loaded template Pit-big.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 3.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 5.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 3.
+Successfully loaded template TinyFarmField.tml with weight 3.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Loaded Tundra ruins templates, biomeID 57
+
+Loading the wasteland ruins templates...
+Successfully loaded template FlamingSkullHouse.tml with weight 10.
+Successfully loaded template LargeNetherHouse.tml with weight 3.
+Successfully loaded template NetherHouse.tml with weight 3.
+Successfully loaded template NetherShrine.tml with weight 2.
+Successfully loaded template PortalShrine.tml with weight 2.
+Successfully loaded template ShortNetherTower.tml with weight 5.
+Successfully loaded template TallNetherTower.tml with weight 5.
+Successfully loaded template Tower-nether.tml with weight 1.
+Loaded Wasteland ruins templates, biomeID 58
+
+Loading the woodlands ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template AncientFountain.tml with weight 1.
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 5.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 5.
+Successfully loaded template BrickHouse.tml with weight 1.
+Successfully loaded template BridgePilings-small.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template OldFoundation.tml with weight 2.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 2.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Woodlands ruins templates, biomeID 59
+
+Loading the twilight clearing ruins templates...
+Loaded Twilight Clearing ruins templates, biomeID 64
+
+Loading the clearing border ruins templates...
+Loaded Clearing Border ruins templates, biomeID 65
+
+Loading the dark forest ruins templates...
+Loaded Dark Forest ruins templates, biomeID 66
+
+Loading the lots of mushrooms ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 15.
+Successfully loaded template BattleBasementMedium.tml with weight 15.
+Successfully loaded template MoaiHead.tml with weight 15.
+Successfully loaded template MobTower.tml with weight 10.
+Successfully loaded template Orthanc.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 15.
+Successfully loaded template Tower-ruined-short.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 10.
+Loaded Lots of Mushrooms ruins templates, biomeID 67
+
+Loading the enchanted forest ruins templates...
+Loaded Enchanted Forest ruins templates, biomeID 68
+
+Loading the fire swamp ruins templates...
+Successfully loaded template FlamingSkullHouse.tml with weight 10.
+Successfully loaded template LargeNetherHouse.tml with weight 3.
+Successfully loaded template NetherHouse.tml with weight 3.
+Successfully loaded template NetherShrine.tml with weight 2.
+Successfully loaded template PortalShrine.tml with weight 2.
+Successfully loaded template ShortNetherTower.tml with weight 5.
+Successfully loaded template TallNetherTower.tml with weight 5.
+Successfully loaded template Tower-nether.tml with weight 1.
+Loaded Fire Swamp ruins templates, biomeID 69
+
+Loading the glacier ruins templates...
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template DwarfBase-mtn.tml with weight 5.
+Successfully loaded template GuardHouse.tml with weight 2.
+Successfully loaded template Igloo.tml with weight 30.
+Successfully loaded template LargeStoneHouse.tml with weight 6.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 6.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 6.
+Successfully loaded template MobTower.tml with weight 5.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 6.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 6.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 6.
+Successfully loaded template ShortTower.tml with weight 6.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 5.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 2.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 6.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Loaded Glacier ruins templates, biomeID 70
+
+Loading the highlands ruins templates...
+Successfully loaded template Archway.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template Gnomeworks.tml with weight 1.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template LargeBrickHouse.tml with weight 4.
+Successfully loaded template LargeStoneHouse.tml with weight 5.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 5.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 5.
+Successfully loaded template MoaiHead.tml with weight 1.
+Successfully loaded template MobTower.tml with weight 5.
+Successfully loaded template OldFoundation.tml with weight 5.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 5.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 4.
+Successfully loaded template RuinedTripleFountain.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 5.
+Successfully loaded template SmallWell.tml with weight 2.
+Successfully loaded template SpiralTree.tml with weight 1.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TallTower.tml with weight 5.
+Successfully loaded template TinyFarmField.tml with weight 6.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 5.
+Loaded Highlands ruins templates, biomeID 71
+
+Loading the twilight lake ruins templates...
+Loaded Twilight Lake ruins templates, biomeID 72
+
+Loading the lake border ruins templates...
+Successfully loaded template BridgePilings-small_river.tml with weight 1.
+Successfully loaded template BridgePilings2_river.tml with weight 1.
+Loaded Lake Border ruins templates, biomeID 73
+
+Loading the major feature ruins templates...
+Loaded Major Feature ruins templates, biomeID 74
+
+Loading the minor feature ruins templates...
+Loaded Minor Feature ruins templates, biomeID 75
+
+Loading the mushrooms ruins templates...
+Successfully loaded template BattleBasementHard.tml with weight 15.
+Successfully loaded template BattleBasementMedium.tml with weight 15.
+Successfully loaded template MoaiHead.tml with weight 15.
+Successfully loaded template MobTower.tml with weight 10.
+Successfully loaded template Orthanc.tml with weight 10.
+Successfully loaded template Tower-edit.tml with weight 15.
+Successfully loaded template Tower-ruined-short.tml with weight 10.
+Successfully loaded template VolcanicVent3_good.tml with weight 10.
+Loaded Mushrooms ruins templates, biomeID 76
+
+Loading the snowy forest ruins templates...
+Successfully loaded template AlchemistsDungeon.tml with weight 1.
+Successfully loaded template Archway.tml with weight 1.
+Successfully loaded template Barn-intact.tml with weight 1.
+Successfully loaded template Barn-ruined.tml with weight 2.
+Successfully loaded template Barrow.tml with weight 1.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BlockHenge.tml with weight 2.
+Successfully loaded template BrickHouse.tml with weight 2.
+Successfully loaded template DiamondWell.tml with weight 4.
+Successfully loaded template Gazebo.tml with weight 4.
+Successfully loaded template GoldWell.tml with weight 1.
+Successfully loaded template Igloo.tml with weight 3.
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+Successfully loaded template LargeStoneHouse.tml with weight 2.
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 2.
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 2.
+Successfully loaded template MobTower.tml with weight 3.
+Successfully loaded template Monolith.tml with weight 1.
+Successfully loaded template OldFoundation.tml with weight 1.
+Successfully loaded template Outcrop4_good.tml with weight 2.
+Successfully loaded template PillarBase.tml with weight 2.
+Successfully loaded template Pit-med.tml with weight 1.
+Successfully loaded template Pit-small.tml with weight 2.
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 1.
+Successfully loaded template RuinedTripleFountain.tml with weight 1.
+Successfully loaded template SandstoneHouse.tml with weight 3.
+Successfully loaded template SandstoneRuin.tml with weight 1.
+Successfully loaded template ShortTower.tml with weight 2.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 4.
+Successfully loaded template SnowHouse2.tml with weight 4.
+Successfully loaded template SnowHouse3.tml with weight 4.
+Successfully loaded template SpiralTree.tml with weight 20.
+Successfully loaded template StoneHenge.tml with weight 1.
+Successfully loaded template StoneHouse.tml with weight 4.
+Successfully loaded template TallTower.tml with weight 2.
+Successfully loaded template Tower-edit.tml with weight 4.
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+Successfully loaded template TreeDungeon.tml with weight 5.
+Successfully loaded template TreeHouse.tml with weight 20.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+Successfully loaded template VolcanicVent3_good.tml with weight 2.
+Successfully loaded template WoodHouse.tml with weight 2.
+Loaded Snowy Forest ruins templates, biomeID 77
+
+Loading the twilight stream ruins templates...
+Loaded Twilight Stream ruins templates, biomeID 78
+
+Loading the twilight swamp ruins templates...
+Loaded Twilight Swamp ruins templates, biomeID 79
+
+Loading the twilight forest ruins templates...
+Loaded Twilight Forest ruins templates, biomeID 80
+
+Loading the dense twilight forest ruins templates...
+Loaded Dense Twilight Forest ruins templates, biomeID 81
+
+Loading the pocket dimension ruins templates...
+Loaded Pocket Dimension ruins templates, biomeID 250
+
+Loading the limbo ruins templates...
+Loaded Limbo ruins templates, biomeID 251
+
+Loading excluded list from: D:\Skrivebord\heil hitler\world
+No exclusions found for this world.
+
+Loading options from: D:\Skrivebord\heil hitler\world
+Ruins is now loading the rotation mappings file D:\Skrivebord\heil hitler\.\mods\resources\ruins\rotation_mappings.txt
+Now reading mappings for [53;67;108;109;114;128;134;135;136]
+Saving Mapping DIR[1] FROM[0] TO[2]
+Saving Mapping DIR[1] FROM[1] TO[3]
+Saving Mapping DIR[1] FROM[2] TO[1]
+Saving Mapping DIR[1] FROM[3] TO[0]
+Saving Mapping DIR[1] FROM[4] TO[6]
+Saving Mapping DIR[1] FROM[5] TO[7]
+Saving Mapping DIR[1] FROM[6] TO[5]
+Saving Mapping DIR[1] FROM[7] TO[4]
+Saving Mapping DIR[2] FROM[0] TO[1]
+Saving Mapping DIR[2] FROM[1] TO[0]
+Saving Mapping DIR[2] FROM[2] TO[3]
+Saving Mapping DIR[2] FROM[3] TO[2]
+Saving Mapping DIR[2] FROM[4] TO[5]
+Saving Mapping DIR[2] FROM[5] TO[4]
+Saving Mapping DIR[2] FROM[6] TO[7]
+Saving Mapping DIR[2] FROM[7] TO[6]
+Saving Mapping DIR[3] FROM[0] TO[3]
+Saving Mapping DIR[3] FROM[1] TO[2]
+Saving Mapping DIR[3] FROM[2] TO[0]
+Saving Mapping DIR[3] FROM[3] TO[1]
+Saving Mapping DIR[3] FROM[4] TO[7]
+Saving Mapping DIR[3] FROM[5] TO[6]
+Saving Mapping DIR[3] FROM[6] TO[4]
+Saving Mapping DIR[3] FROM[7] TO[5]
+Now reading mappings for [tile.tripWireSource]
+Mapped Block name [tile.tripWireSource] to ID [131]
+Saving Mapping DIR[1] FROM[1] TO[2]
+Saving Mapping DIR[1] FROM[2] TO[3]
+Saving Mapping DIR[1] FROM[3] TO[0]
+Saving Mapping DIR[1] FROM[0] TO[1]
+Saving Mapping DIR[2] FROM[0] TO[2]
+Saving Mapping DIR[2] FROM[1] TO[3]
+Saving Mapping DIR[2] FROM[2] TO[0]
+Saving Mapping DIR[2] FROM[3] TO[1]
+Saving Mapping DIR[3] FROM[0] TO[3]
+Saving Mapping DIR[3] FROM[2] TO[1]
+Saving Mapping DIR[3] FROM[3] TO[2]
+Saving Mapping DIR[3] FROM[1] TO[0]
+Now reading mappings for [29;34]
+Saving Mapping DIR[1] FROM[0] TO[0]
+Saving Mapping DIR[1] FROM[1] TO[1]
+Saving Mapping DIR[1] FROM[4] TO[2]
+Saving Mapping DIR[1] FROM[5] TO[3]
+Saving Mapping DIR[1] FROM[2] TO[5]
+Saving Mapping DIR[1] FROM[3] TO[4]
+Saving Mapping DIR[1] FROM[8] TO[8]
+Saving Mapping DIR[1] FROM[9] TO[9]
+Saving Mapping DIR[1] FROM[12] TO[10]
+Saving Mapping DIR[1] FROM[13] TO[11]
+Saving Mapping DIR[1] FROM[10] TO[13]
+Saving Mapping DIR[1] FROM[11] TO[12]
+Saving Mapping DIR[2] FROM[0] TO[0]
+Saving Mapping DIR[2] FROM[1] TO[1]
+Saving Mapping DIR[2] FROM[4] TO[5]
+Saving Mapping DIR[2] FROM[5] TO[4]
+Saving Mapping DIR[2] FROM[2] TO[3]
+Saving Mapping DIR[2] FROM[3] TO[2]
+Saving Mapping DIR[2] FROM[8] TO[8]
+Saving Mapping DIR[2] FROM[9] TO[9]
+Saving Mapping DIR[2] FROM[12] TO[13]
+Saving Mapping DIR[2] FROM[13] TO[12]
+Saving Mapping DIR[2] FROM[10] TO[11]
+Saving Mapping DIR[2] FROM[11] TO[10]
+Saving Mapping DIR[3] FROM[0] TO[0]
+Saving Mapping DIR[3] FROM[1] TO[1]
+Saving Mapping DIR[3] FROM[4] TO[3]
+Saving Mapping DIR[3] FROM[5] TO[2]
+Saving Mapping DIR[3] FROM[2] TO[4]
+Saving Mapping DIR[3] FROM[3] TO[5]
+Saving Mapping DIR[3] FROM[8] TO[8]
+Saving Mapping DIR[3] FROM[9] TO[9]
+Saving Mapping DIR[3] FROM[12] TO[11]
+Saving Mapping DIR[3] FROM[13] TO[10]
+Saving Mapping DIR[3] FROM[10] TO[12]
+Saving Mapping DIR[3] FROM[11] TO[13]
+Now reading mappings for [99;100]
+Saving Mapping DIR[1] FROM[0] TO[0]
+Saving Mapping DIR[1] FROM[1] TO[3]
+Saving Mapping DIR[1] FROM[2] TO[6]
+Saving Mapping DIR[1] FROM[3] TO[9]
+Saving Mapping DIR[1] FROM[4] TO[2]
+Saving Mapping DIR[1] FROM[5] TO[5]
+Saving Mapping DIR[1] FROM[6] TO[8]
+Saving Mapping DIR[1] FROM[7] TO[1]
+Saving Mapping DIR[1] FROM[8] TO[4]
+Saving Mapping DIR[1] FROM[9] TO[7]
+Saving Mapping DIR[1] FROM[10] TO[10]
+Saving Mapping DIR[2] FROM[0] TO[0]
+Saving Mapping DIR[2] FROM[1] TO[9]
+Saving Mapping DIR[2] FROM[2] TO[8]
+Saving Mapping DIR[2] FROM[3] TO[7]
+Saving Mapping DIR[2] FROM[4] TO[6]
+Saving Mapping DIR[2] FROM[5] TO[5]
+Saving Mapping DIR[2] FROM[6] TO[4]
+Saving Mapping DIR[2] FROM[7] TO[3]
+Saving Mapping DIR[2] FROM[8] TO[2]
+Saving Mapping DIR[2] FROM[9] TO[1]
+Saving Mapping DIR[2] FROM[10] TO[10]
+Saving Mapping DIR[3] FROM[0] TO[0]
+Saving Mapping DIR[3] FROM[1] TO[7]
+Saving Mapping DIR[3] FROM[2] TO[4]
+Saving Mapping DIR[3] FROM[3] TO[1]
+Saving Mapping DIR[3] FROM[4] TO[8]
+Saving Mapping DIR[3] FROM[5] TO[5]
+Saving Mapping DIR[3] FROM[6] TO[2]
+Saving Mapping DIR[3] FROM[7] TO[9]
+Saving Mapping DIR[3] FROM[8] TO[6]
+Saving Mapping DIR[3] FROM[9] TO[3]
+Saving Mapping DIR[3] FROM[10] TO[10]
+Ruins mod loaded.

@@ -1,0 +1,4 @@
+# Updated 07-01-18 21:33 by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+fisterma|2018-01-07 20:53:27 +0100|beddokiller1|Forever|Banned by an operator.

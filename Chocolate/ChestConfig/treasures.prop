@@ -1,0 +1,54 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+goldBlock = 41,1,0,80
+goldenApple = 322,5,0,10
+eyeOfEnder = 381,5,0,60
+diamond = 264,6,0,50
+emerald = 388,4,0,30
+emperorChalice = 6411,1,0,1
+destructoCatalyst = 6410,1,0,1
+distortionCloak = 6412,1,0,1
+hammerAssembly1 = 6418,1,0,1
+hammerAssembly2 = 6418,1,1,1
+hammerAssembly3 = 6418,1,2,1
+holyHandGrenade = 6417,1,0,1
+essence1 = 7610,3,0,4
+essence2 = 7610,3,1,4
+essence3 = 7610,3,2,4
+essence4 = 7610,3,3,4
+essence5 = 7610,3,4,4
+essence6 = 7610,3,5,4
+essence7 = 7610,3,6,4
+essence8 = 7610,3,7,4
+essenceCombined = 7610,3,8,4
+goldenGysahl = 5745,1,0,1
+hexicalEssence = 7708,3,0,10
+hookshot = 6017,1,0,4
+magicMirror = 6020,1,0,4
+quiver = 6027,1,0,4
+bomb = 6032,5,0,4
+phoenixFeather = 6025,1,0,4
+boomerang = 6019,1,0,4
+coinFortune = 6413,1,0,1
+bigBackpack1 = 5657,1,32,1
+bigBackpack2 = 5657,1,33,1
+bigBackpack3 = 5657,1,34,1
+bigBackpack4 = 5657,1,35,1
+bigBackpack5 = 5657,1,36,1
+bigBackpack6 = 5657,1,37,1
+bigBackpack7 = 5657,1,38,1
+bigBackpack8 = 5657,1,39,1
+bigBackpack9 = 5657,1,40,1
+bigBackpack10 = 5657,1,41,1
+bigBackpack11 = 5657,1,42,1
+bigBackpack12 = 5657,1,43,1
+bigBackpack13 = 5657,1,44,1
+bigBackpack14 = 5657,1,45,1
+bigBackpack15 = 5657,1,46,1
+bigBackpack16 = 5657,1,47,1
+bigBackpack17 = 5657,1,48,1

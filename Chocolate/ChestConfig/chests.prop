@@ -1,0 +1,47 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+saddle = 329,1,0,10
+iron = 265,3,0,10
+gold = 266,3,0,5
+wheat = 296,9,0,30
+clock= 347,1,0,10
+gunpowder = 289,3,0,80
+leather= 334,5,0,80
+torch = 50,10,0,100
+arrow= 262,16,0,80
+cocoa= 351,2,3,10
+cookie= 357,3,0,20
+backpack1 = 5657,1,0,1
+backpack2 = 5657,1,1,1
+backpack3 = 5657,1,2,1
+backpack4 = 5657,1,3,1
+backpack5 = 5657,1,4,1
+backpack6 = 5657,1,5,1
+backpack7 = 5657,1,6,1
+backpack8 = 5657,1,7,1
+backpack9 = 5657,1,8,1
+backpack10 = 5657,1,9,1
+backpack11 = 5657,1,10,1
+backpack12 = 5657,1,11,1
+backpack13 = 5657,1,12,1
+backpack14 = 5657,1,13,1
+backpack15 = 5657,1,14,1
+backpack16 = 5657,1,15,1
+backpack17 = 5657,1,16,1
+sunflower = 6232,8,0,10
+beanstalk = 1281,10,0,10
+lawn = 1289,64,0,10
+book = 340,8,0,10
+gysahlSeeds =  5751,3,0,10
+hexical = 7708,1,0,5
+armorStand = 1071,1,0,5
+oakShelf = 1073,1,0,5
+fancyLamp = 1074,1,0,5
+printingPress = 1077,1,0,5
+reinforcedIronChest = 1053,1,0,5
+reinforcedDiamondChest = 1053,1,2,1
